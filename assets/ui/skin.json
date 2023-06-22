@@ -1,0 +1,24 @@
+{
+  "Color": {
+    "white": { "r": 1, "g": 1, "b": 1, "a": 1 },
+    "black": { "r": 0, "g": 0, "b": 0, "a": 1 }
+  },
+  "TextButtonStyle": {
+    "default": {
+      "font": "default",
+      "fontColor": "white"
+    }
+  },
+  "LabelStyle": {
+    "default": {
+      "font": "default",
+      "fontColor": "white"
+    }
+  },
+  "WindowStyle": {
+    "default": {
+      "titleFont": "default",
+      "titleFontColor": "white"
+    }
+  }
+}
